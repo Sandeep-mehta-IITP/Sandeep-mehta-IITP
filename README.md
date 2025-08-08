@@ -2,8 +2,9 @@
 
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sandeep+Mehta;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sandeep+Mehta;MERN+Stack+Developer;From%20Concept%20to%20Code%2C%20Build%20Possibilities;Always+Learning+New+Things;Innovating+the+Web%2C+One+Commit+at+a+Time" />
 </p>
+
 
 ---
 
