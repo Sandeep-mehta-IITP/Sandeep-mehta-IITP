@@ -36,21 +36,21 @@
 ### 🖼 [Imafigy](https://imafigy.vercel.app)
 > AI-powered image enhancement & editing platform  
 **Tech Stack:** React, Node.js, Tailwind CSS, OpenAI API  
-[🔗 Live Demo](https://imafigy.vercel.app) • [📂 Repo](https://github.com/yourusername/imafigy)
+[🔗 Live Demo](imagify-frontend-qope.onrender.com) • [📂 Repo](https://github.com/Sandeep-mehta-IITP/imagify_frontend)
 
 ---
 
 ### 🌱 [EcoTrack](https://ecotrack.vercel.app)
 > Track & reduce your carbon footprint with real-time analytics  
 **Tech Stack:** Next.js, MongoDB, Tailwind CSS  
-[🔗 Live Demo](https://ecotrack.vercel.app) • [📂 Repo](https://github.com/yourusername/ecotrack)
+[🔗 Live Demo](https://eco-track-sg2k.onrender.com) • [📂 Repo](https://github.com/Sandeep-mehta-IITP/eco_track)
 
 ---
 
 ### 🩺 [Prescripto](https://prescripto-gh4r.onrender.com)
 > Doctor appointment app with role-based panels  
 **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS  
-[🔗 Live Demo](https://prescripto-gh4r.onrender.com) • [📂 Repo](https://github.com/yourusername/prescripto)
+[🔗 Live Demo](https://prescripto-gh4r.onrender.com) • [📂 Repo](https://github.com/Sandeep-mehta-IITP/Prescripto-Doctor-Appointment)
 
 ---
 
@@ -62,8 +62,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SandeepMehta&theme=tokyonight&border_radius=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sandeep-mehta-IITP&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
+
+
+
 
 ---
 
